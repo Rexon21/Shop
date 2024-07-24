@@ -1,0 +1,65 @@
+@charset "UTF-8";
+body{
+	background : linear-gradient(#9e04a0 70% ,#ff1800);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+.Signin{
+	background:red;
+	padding:50px 80px 20px;
+	border-style:solid;
+	border-radius:40px;
+	border-color:#bcdd4f;
+}
+
+.page{
+	background:#000000;
+	padding:10px;
+	border-radius:30px;
+	
+}
+.Signin > input{
+	width:400px;
+	height:7vh;
+	padding:5px;
+}
+.Signh{
+	background:white;
+	text-align:center;
+	color:#f7ff00;
+	font-size:40px;
+	font-family:mo;
+	background:transparent;
+
+}
+.Signb{
+	text-align:center;
+	padding-top:20px;
+	font-size:20px;
+	padding-bottom:40px;
+	
+}
+.Signb>input{
+	
+    border-radius:7px;
+	padding:7px 20px ;
+	font-family:emoji;
+	background:#1504bd;
+	color:white;
+}
+
+
+.log{
+	color:#00e326;
+	font-size:20px;
+
+}
+.log a {
+	color:yellow;
+	font-size:18px;
+}
+p{
+	color:yellow;
+	font-size:18px;
+}

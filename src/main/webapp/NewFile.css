@@ -1,0 +1,84 @@
+@charset "UTF-8";
+body{
+	background : linear-gradient(#444d4d 70% ,#f8f7f7);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+.login{
+	background:#442f7c4f;
+	padding:50px 40px;
+	border-style:solid;
+	border-radius:40px;
+	border-color:#FFEB3B;
+}
+
+.page{
+	border-style:solid;
+	border-color:#FFEB3B;
+	background:#03030330;
+	padding:10px;
+	border-radius:30px;
+	
+}
+.login > input{
+	width:400px;
+	height:7vh;
+	padding:5px;
+}
+.loginh{
+	background:white;
+	text-align:center;
+	color:#dcf321;
+	font-size:40px;
+	font-family:mo;
+	background:transparent;
+
+}
+.loginb{
+	text-align:center;
+	padding-top:20px;
+	font-size:20px;
+	padding-bottom:40px;
+	
+}
+input{
+	border-radius:10px;
+}
+.loginb>input{
+	
+    border-radius:10px;
+	padding:7px 20px ;
+	font-family:emoji;
+	background:#43bd04;
+	color:#d4cdcd;
+}
+
+#iuser{
+	color:#ff0000;
+	font-size:20px;
+	text-align:center;
+}
+#ipassw{
+	color:#ff0000;
+	font-size:20px;
+	text-align:center;
+}
+
+.fpwd>a{
+	color:#fafa03;
+	font-size:18px;
+}
+.fpwd> a :hover{
+	font-size:20px;
+	color:#05c124;
+}
+.signup{
+	color:#00e326;
+	font-size:20px;
+
+}
+.signup a {
+	color:yellow;
+	font-size:18px;
+}
